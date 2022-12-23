@@ -1,6 +1,4 @@
 library(shiny)
-#library(tidyverse)
-library(babynames)
 library(shinythemes)
 
 #THE USER INTERFACE
